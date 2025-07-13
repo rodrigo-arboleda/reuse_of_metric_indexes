@@ -1,0 +1,80 @@
+{
+    "tree-0": {
+        "data-0": {
+            "page_size-32768": {
+                "avg_time": 17.7356,
+                "disk_access": 1245.31,
+                "avg_dist_calc": 6830.79,
+                "avg_obj_result": 15.044,
+                "radius": 22830,
+                "num_consults": 500,
+                "seq_disk_access": 1372
+            },
+            "page_size-65536": {
+                "avg_time": 14.5775,
+                "disk_access": 523.162,
+                "avg_dist_calc": 6016.61,
+                "avg_obj_result": 15.044,
+                "radius": 22830,
+                "num_consults": 500,
+                "seq_disk_access": 664
+            },
+            "page_size-131072": {
+                "avg_time": 13.8582,
+                "disk_access": 258.174,
+                "avg_dist_calc": 5889.81,
+                "avg_obj_result": 15.044,
+                "radius": 22830,
+                "num_consults": 500,
+                "seq_disk_access": 332
+            },
+            "page_size-262144": {
+                "avg_time": 13.8663,
+                "disk_access": 135.91,
+                "avg_dist_calc": 5935.15,
+                "avg_obj_result": 15.044,
+                "radius": 22830,
+                "num_consults": 500,
+                "seq_disk_access": 165
+            }
+        },
+        "data-1": {
+            "page_size-32768": {
+                "avg_time": 36.2339,
+                "disk_access": 1246.5,
+                "avg_dist_calc": 9307.16,
+                "avg_obj_result": 15.09,
+                "radius": 11320,
+                "num_consults": 500,
+                "seq_disk_access": 1372
+            },
+            "page_size-65536": {
+                "avg_time": 33.7726,
+                "disk_access": 523.536,
+                "avg_dist_calc": 9068.66,
+                "avg_obj_result": 15.09,
+                "radius": 11320,
+                "num_consults": 500,
+                "seq_disk_access": 664
+            },
+            "page_size-131072": {
+                "avg_time": 35.2121,
+                "disk_access": 258.32,
+                "avg_dist_calc": 9577.82,
+                "avg_obj_result": 15.09,
+                "radius": 11320,
+                "num_consults": 500,
+                "seq_disk_access": 332
+            },
+            "page_size-262144": {
+                "avg_time": 37.4613,
+                "disk_access": 135.902,
+                "avg_dist_calc": 10220.1,
+                "avg_obj_result": 15.09,
+                "radius": 11320,
+                "num_consults": 500,
+                "seq_disk_access": 165
+            }
+        }
+    }
+}
