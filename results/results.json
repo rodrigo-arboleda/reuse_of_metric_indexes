@@ -1,0 +1,2970 @@
+{
+    "tree-0": {
+        "data-0": {
+            "radius-0": {
+                "avg_time": 3.88789,
+                "disk_access": 218.26,
+                "avg_dist_calc": 358.38,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-11151": {
+                "avg_time": 9.12274,
+                "disk_access": 238.024,
+                "avg_dist_calc": 3143.81,
+                "avg_obj_result": 1.242,
+                "radius": 11151,
+                "num_consults": 500
+            },
+            "radius-22302": {
+                "avg_time": 14.1467,
+                "disk_access": 257.28,
+                "avg_dist_calc": 5771.01,
+                "avg_obj_result": 13.696,
+                "radius": 22302,
+                "num_consults": 500
+            },
+            "radius-33453": {
+                "avg_time": 17.5907,
+                "disk_access": 274.984,
+                "avg_dist_calc": 8140.77,
+                "avg_obj_result": 62.012,
+                "radius": 33453,
+                "num_consults": 500
+            },
+            "radius-44604": {
+                "avg_time": 22.9583,
+                "disk_access": 290.954,
+                "avg_dist_calc": 10248.8,
+                "avg_obj_result": 165.388,
+                "radius": 44604,
+                "num_consults": 500
+            },
+            "radius-55755": {
+                "avg_time": 25.6551,
+                "disk_access": 305.546,
+                "avg_dist_calc": 12101.3,
+                "avg_obj_result": 367.748,
+                "radius": 55755,
+                "num_consults": 500
+            },
+            "radius-66906": {
+                "avg_time": 29.7855,
+                "disk_access": 318.328,
+                "avg_dist_calc": 13715.5,
+                "avg_obj_result": 717.356,
+                "radius": 66906,
+                "num_consults": 500
+            },
+            "radius-78057": {
+                "avg_time": 33.1373,
+                "disk_access": 329.144,
+                "avg_dist_calc": 15079.4,
+                "avg_obj_result": 1264.11,
+                "radius": 78057,
+                "num_consults": 500
+            },
+            "radius-89208": {
+                "avg_time": 35.73,
+                "disk_access": 338.308,
+                "avg_dist_calc": 16209.4,
+                "avg_obj_result": 2057.9,
+                "radius": 89208,
+                "num_consults": 500
+            },
+            "radius-89210": {
+                "avg_time": 36.1493,
+                "disk_access": 338.31,
+                "avg_dist_calc": 16209.6,
+                "avg_obj_result": 2058.09,
+                "radius": 89210,
+                "num_consults": 500
+            }
+        },
+        "data-1": {
+            "radius-0": {
+                "avg_time": 30.2185,
+                "disk_access": 218.738,
+                "avg_dist_calc": 6582.32,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-5552": {
+                "avg_time": 35.39,
+                "disk_access": 238.38,
+                "avg_dist_calc": 8032.1,
+                "avg_obj_result": 1.278,
+                "radius": 5552,
+                "num_consults": 500
+            },
+            "radius-11104": {
+                "avg_time": 42.9648,
+                "disk_access": 257.586,
+                "avg_dist_calc": 9519.57,
+                "avg_obj_result": 13.954,
+                "radius": 11104,
+                "num_consults": 500
+            },
+            "radius-16656": {
+                "avg_time": 50.7985,
+                "disk_access": 275.182,
+                "avg_dist_calc": 10976.3,
+                "avg_obj_result": 62.676,
+                "radius": 16656,
+                "num_consults": 500
+            },
+            "radius-22208": {
+                "avg_time": 58.77,
+                "disk_access": 291.064,
+                "avg_dist_calc": 12371.3,
+                "avg_obj_result": 166.694,
+                "radius": 22208,
+                "num_consults": 500
+            },
+            "radius-27760": {
+                "avg_time": 96.7856,
+                "disk_access": 305.572,
+                "avg_dist_calc": 13677.1,
+                "avg_obj_result": 370.086,
+                "radius": 27760,
+                "num_consults": 500
+            },
+            "radius-33312": {
+                "avg_time": 90.9859,
+                "disk_access": 318.282,
+                "avg_dist_calc": 14876.6,
+                "avg_obj_result": 720.214,
+                "radius": 33312,
+                "num_consults": 500
+            },
+            "radius-38864": {
+                "avg_time": 86.2557,
+                "disk_access": 329.046,
+                "avg_dist_calc": 15934.8,
+                "avg_obj_result": 1266.22,
+                "radius": 38864,
+                "num_consults": 500
+            },
+            "radius-44416": {
+                "avg_time": 84.1479,
+                "disk_access": 338.192,
+                "avg_dist_calc": 16841,
+                "avg_obj_result": 2056.84,
+                "radius": 44416,
+                "num_consults": 500
+            },
+            "radius-44423": {
+                "avg_time": 84.5154,
+                "disk_access": 338.198,
+                "avg_dist_calc": 16842,
+                "avg_obj_result": 2058.09,
+                "radius": 44423,
+                "num_consults": 500
+            }
+        },
+        "data-2": {
+            "radius-0": {
+                "avg_time": 43.7062,
+                "disk_access": 219.484,
+                "avg_dist_calc": 6634.87,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-2760": {
+                "avg_time": 54.3938,
+                "disk_access": 238.93,
+                "avg_dist_calc": 8076.77,
+                "avg_obj_result": 1.296,
+                "radius": 2760,
+                "num_consults": 500
+            },
+            "radius-5520": {
+                "avg_time": 62.6213,
+                "disk_access": 257.998,
+                "avg_dist_calc": 9556.22,
+                "avg_obj_result": 14.122,
+                "radius": 5520,
+                "num_consults": 500
+            },
+            "radius-8280": {
+                "avg_time": 72.276,
+                "disk_access": 275.496,
+                "avg_dist_calc": 11003,
+                "avg_obj_result": 62.994,
+                "radius": 8280,
+                "num_consults": 500
+            },
+            "radius-11040": {
+                "avg_time": 83.4767,
+                "disk_access": 291.234,
+                "avg_dist_calc": 12387.9,
+                "avg_obj_result": 167.574,
+                "radius": 11040,
+                "num_consults": 500
+            },
+            "radius-13800": {
+                "avg_time": 85.978,
+                "disk_access": 305.624,
+                "avg_dist_calc": 13684.2,
+                "avg_obj_result": 371.872,
+                "radius": 13800,
+                "num_consults": 500
+            },
+            "radius-16560": {
+                "avg_time": 95.075,
+                "disk_access": 318.308,
+                "avg_dist_calc": 14875.5,
+                "avg_obj_result": 722.654,
+                "radius": 16560,
+                "num_consults": 500
+            },
+            "radius-19320": {
+                "avg_time": 108.784,
+                "disk_access": 328.98,
+                "avg_dist_calc": 15927.5,
+                "avg_obj_result": 1269.09,
+                "radius": 19320,
+                "num_consults": 500
+            },
+            "radius-22080": {
+                "avg_time": 106.85,
+                "disk_access": 338.074,
+                "avg_dist_calc": 16830,
+                "avg_obj_result": 2057.82,
+                "radius": 22080,
+                "num_consults": 500
+            },
+            "radius-22081": {
+                "avg_time": 107.847,
+                "disk_access": 338.076,
+                "avg_dist_calc": 16830.3,
+                "avg_obj_result": 2058.16,
+                "radius": 22081,
+                "num_consults": 500
+            }
+        },
+        "data-3": {
+            "radius-0": {
+                "avg_time": 55.7044,
+                "disk_access": 221.25,
+                "avg_dist_calc": 6761.54,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-1361": {
+                "avg_time": 67.1548,
+                "disk_access": 240.336,
+                "avg_dist_calc": 8185.97,
+                "avg_obj_result": 1.3,
+                "radius": 1361,
+                "num_consults": 500
+            },
+            "radius-2722": {
+                "avg_time": 78.3237,
+                "disk_access": 259.07,
+                "avg_dist_calc": 9645.66,
+                "avg_obj_result": 14.25,
+                "radius": 2722,
+                "num_consults": 500
+            },
+            "radius-4083": {
+                "avg_time": 88.9978,
+                "disk_access": 276.258,
+                "avg_dist_calc": 11068.8,
+                "avg_obj_result": 63.088,
+                "radius": 4083,
+                "num_consults": 500
+            },
+            "radius-5444": {
+                "avg_time": 98.4284,
+                "disk_access": 291.682,
+                "avg_dist_calc": 12428.9,
+                "avg_obj_result": 168.476,
+                "radius": 5444,
+                "num_consults": 500
+            },
+            "radius-6805": {
+                "avg_time": 108.882,
+                "disk_access": 305.874,
+                "avg_dist_calc": 13701.8,
+                "avg_obj_result": 374.476,
+                "radius": 6805,
+                "num_consults": 500
+            },
+            "radius-8166": {
+                "avg_time": 118.818,
+                "disk_access": 318.33,
+                "avg_dist_calc": 14872.7,
+                "avg_obj_result": 728.082,
+                "radius": 8166,
+                "num_consults": 500
+            },
+            "radius-9527": {
+                "avg_time": 128.134,
+                "disk_access": 328.83,
+                "avg_dist_calc": 15910.2,
+                "avg_obj_result": 1274.68,
+                "radius": 9527,
+                "num_consults": 500
+            },
+            "radius-10888": {
+                "avg_time": 137.703,
+                "disk_access": 337.934,
+                "avg_dist_calc": 16803.1,
+                "avg_obj_result": 2056.66,
+                "radius": 10888,
+                "num_consults": 500
+            },
+            "radius-10890": {
+                "avg_time": 145.641,
+                "disk_access": 337.95,
+                "avg_dist_calc": 16804.2,
+                "avg_obj_result": 2058.03,
+                "radius": 10890,
+                "num_consults": 500
+            }
+        },
+        "data-4": {
+            "radius-0": {
+                "avg_time": 71.8644,
+                "disk_access": 225.546,
+                "avg_dist_calc": 7085.28,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-656": {
+                "avg_time": 86.843,
+                "disk_access": 243.872,
+                "avg_dist_calc": 8462.73,
+                "avg_obj_result": 1.364,
+                "radius": 656,
+                "num_consults": 500
+            },
+            "radius-1312": {
+                "avg_time": 99.6045,
+                "disk_access": 261.704,
+                "avg_dist_calc": 9865.7,
+                "avg_obj_result": 14.374,
+                "radius": 1312,
+                "num_consults": 500
+            },
+            "radius-1968": {
+                "avg_time": 113.905,
+                "disk_access": 278.15,
+                "avg_dist_calc": 11229.6,
+                "avg_obj_result": 63.68,
+                "radius": 1968,
+                "num_consults": 500
+            },
+            "radius-2624": {
+                "avg_time": 128.145,
+                "disk_access": 293.038,
+                "avg_dist_calc": 12527.4,
+                "avg_obj_result": 172.96,
+                "radius": 2624,
+                "num_consults": 500
+            },
+            "radius-3280": {
+                "avg_time": 139.335,
+                "disk_access": 306.578,
+                "avg_dist_calc": 13742.4,
+                "avg_obj_result": 385.232,
+                "radius": 3280,
+                "num_consults": 500
+            },
+            "radius-3936": {
+                "avg_time": 151.399,
+                "disk_access": 318.524,
+                "avg_dist_calc": 14865.1,
+                "avg_obj_result": 745.556,
+                "radius": 3936,
+                "num_consults": 500
+            },
+            "radius-4592": {
+                "avg_time": 162.335,
+                "disk_access": 328.624,
+                "avg_dist_calc": 15866.3,
+                "avg_obj_result": 1291.7,
+                "radius": 4592,
+                "num_consults": 500
+            },
+            "radius-5248": {
+                "avg_time": 178.899,
+                "disk_access": 337.49,
+                "avg_dist_calc": 16734.9,
+                "avg_obj_result": 2057.15,
+                "radius": 5248,
+                "num_consults": 500
+            },
+            "radius-5249": {
+                "avg_time": 176.009,
+                "disk_access": 337.496,
+                "avg_dist_calc": 16736.1,
+                "avg_obj_result": 2058.4,
+                "radius": 5249,
+                "num_consults": 500
+            }
+        },
+        "data-5": {
+            "radius-0": {
+                "avg_time": 98.7914,
+                "disk_access": 236.56,
+                "avg_dist_calc": 7917.21,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-297": {
+                "avg_time": 114.151,
+                "disk_access": 253.062,
+                "avg_dist_calc": 9171.15,
+                "avg_obj_result": 1.562,
+                "radius": 297,
+                "num_consults": 500
+            },
+            "radius-594": {
+                "avg_time": 128.08,
+                "disk_access": 268.624,
+                "avg_dist_calc": 10428.1,
+                "avg_obj_result": 15.482,
+                "radius": 594,
+                "num_consults": 500
+            },
+            "radius-891": {
+                "avg_time": 144.143,
+                "disk_access": 283.248,
+                "avg_dist_calc": 11648.1,
+                "avg_obj_result": 69.146,
+                "radius": 891,
+                "num_consults": 500
+            },
+            "radius-1188": {
+                "avg_time": 157.395,
+                "disk_access": 296.346,
+                "avg_dist_calc": 12798.5,
+                "avg_obj_result": 190.646,
+                "radius": 1188,
+                "num_consults": 500
+            },
+            "radius-1485": {
+                "avg_time": 171.171,
+                "disk_access": 308.572,
+                "avg_dist_calc": 13874.2,
+                "avg_obj_result": 420.064,
+                "radius": 1485,
+                "num_consults": 500
+            },
+            "radius-1782": {
+                "avg_time": 183.73,
+                "disk_access": 319.306,
+                "avg_dist_calc": 14876.7,
+                "avg_obj_result": 790.344,
+                "radius": 1782,
+                "num_consults": 500
+            },
+            "radius-2079": {
+                "avg_time": 195.551,
+                "disk_access": 328.626,
+                "avg_dist_calc": 15780.6,
+                "avg_obj_result": 1324.48,
+                "radius": 2079,
+                "num_consults": 500
+            },
+            "radius-2376": {
+                "avg_time": 205.39,
+                "disk_access": 336.836,
+                "avg_dist_calc": 16584.4,
+                "avg_obj_result": 2041.57,
+                "radius": 2376,
+                "num_consults": 500
+            },
+            "radius-2382": {
+                "avg_time": 207.141,
+                "disk_access": 336.99,
+                "avg_dist_calc": 16599.9,
+                "avg_obj_result": 2058.21,
+                "radius": 2382,
+                "num_consults": 500
+            }
+        },
+        "data-6": {
+            "radius-0": {
+                "avg_time": 138.947,
+                "disk_access": 258.954,
+                "avg_dist_calc": 9679.61,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-115": {
+                "avg_time": 152.733,
+                "disk_access": 270.774,
+                "avg_dist_calc": 10620.7,
+                "avg_obj_result": 4.032,
+                "radius": 115,
+                "num_consults": 500
+            },
+            "radius-230": {
+                "avg_time": 167.17,
+                "disk_access": 281.836,
+                "avg_dist_calc": 11551,
+                "avg_obj_result": 31.672,
+                "radius": 230,
+                "num_consults": 500
+            },
+            "radius-345": {
+                "avg_time": 180.594,
+                "disk_access": 292.796,
+                "avg_dist_calc": 12455.4,
+                "avg_obj_result": 124.716,
+                "radius": 345,
+                "num_consults": 500
+            },
+            "radius-460": {
+                "avg_time": 190.893,
+                "disk_access": 302.11,
+                "avg_dist_calc": 13292,
+                "avg_obj_result": 301.246,
+                "radius": 460,
+                "num_consults": 500
+            },
+            "radius-575": {
+                "avg_time": 204.041,
+                "disk_access": 311.016,
+                "avg_dist_calc": 14086.8,
+                "avg_obj_result": 578.854,
+                "radius": 575,
+                "num_consults": 500
+            },
+            "radius-690": {
+                "avg_time": 214.654,
+                "disk_access": 319.488,
+                "avg_dist_calc": 14828.1,
+                "avg_obj_result": 960.33,
+                "radius": 690,
+                "num_consults": 500
+            },
+            "radius-805": {
+                "avg_time": 224.774,
+                "disk_access": 326.568,
+                "avg_dist_calc": 15520.2,
+                "avg_obj_result": 1450.65,
+                "radius": 805,
+                "num_consults": 500
+            },
+            "radius-920": {
+                "avg_time": 231.192,
+                "disk_access": 333.302,
+                "avg_dist_calc": 16167.5,
+                "avg_obj_result": 2039.61,
+                "radius": 920,
+                "num_consults": 500
+            },
+            "radius-923": {
+                "avg_time": 231.617,
+                "disk_access": 333.444,
+                "avg_dist_calc": 16183,
+                "avg_obj_result": 2057.41,
+                "radius": 923,
+                "num_consults": 500
+            }
+        },
+        "data-7": {
+            "radius-0": {
+                "avg_time": 209.033,
+                "disk_access": 300.236,
+                "avg_dist_calc": 13038.3,
+                "avg_obj_result": 1.03,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-25": {
+                "avg_time": 217.014,
+                "disk_access": 304.216,
+                "avg_dist_calc": 13374.2,
+                "avg_obj_result": 90.5,
+                "radius": 25,
+                "num_consults": 500
+            },
+            "radius-50": {
+                "avg_time": 225.47,
+                "disk_access": 307.996,
+                "avg_dist_calc": 13703,
+                "avg_obj_result": 208.202,
+                "radius": 50,
+                "num_consults": 500
+            },
+            "radius-75": {
+                "avg_time": 234.417,
+                "disk_access": 311.608,
+                "avg_dist_calc": 14033.4,
+                "avg_obj_result": 370.582,
+                "radius": 75,
+                "num_consults": 500
+            },
+            "radius-100": {
+                "avg_time": 233.407,
+                "disk_access": 315.494,
+                "avg_dist_calc": 14353.7,
+                "avg_obj_result": 572.334,
+                "radius": 100,
+                "num_consults": 500
+            },
+            "radius-125": {
+                "avg_time": 241.874,
+                "disk_access": 319.226,
+                "avg_dist_calc": 14668.5,
+                "avg_obj_result": 791.622,
+                "radius": 125,
+                "num_consults": 500
+            },
+            "radius-150": {
+                "avg_time": 247.529,
+                "disk_access": 323.26,
+                "avg_dist_calc": 14969.5,
+                "avg_obj_result": 1025.86,
+                "radius": 150,
+                "num_consults": 500
+            },
+            "radius-175": {
+                "avg_time": 253.74,
+                "disk_access": 326.99,
+                "avg_dist_calc": 15275.5,
+                "avg_obj_result": 1710.79,
+                "radius": 175,
+                "num_consults": 500
+            },
+            "radius-200": {
+                "avg_time": 253.757,
+                "disk_access": 329.872,
+                "avg_dist_calc": 15548.7,
+                "avg_obj_result": 2044.44,
+                "radius": 200,
+                "num_consults": 500
+            },
+            "radius-201": {
+                "avg_time": 263.295,
+                "disk_access": 329.988,
+                "avg_dist_calc": 15558.8,
+                "avg_obj_result": 2055.24,
+                "radius": 201,
+                "num_consults": 500
+            }
+        }
+    },
+    "tree-1": {
+        "data-1": {
+            "radius-0": {
+                "avg_time": 3.58429,
+                "disk_access": 223.28,
+                "avg_dist_calc": 345.002,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-5552": {
+                "avg_time": 7.0268,
+                "disk_access": 242.518,
+                "avg_dist_calc": 3183.18,
+                "avg_obj_result": 1.278,
+                "radius": 5552,
+                "num_consults": 500
+            },
+            "radius-11104": {
+                "avg_time": 9.63859,
+                "disk_access": 260.636,
+                "avg_dist_calc": 5850.12,
+                "avg_obj_result": 13.954,
+                "radius": 11104,
+                "num_consults": 500
+            },
+            "radius-16656": {
+                "avg_time": 12.8022,
+                "disk_access": 277.386,
+                "avg_dist_calc": 8254.67,
+                "avg_obj_result": 62.676,
+                "radius": 16656,
+                "num_consults": 500
+            },
+            "radius-22208": {
+                "avg_time": 14.1421,
+                "disk_access": 292.308,
+                "avg_dist_calc": 10385.4,
+                "avg_obj_result": 166.694,
+                "radius": 22208,
+                "num_consults": 500
+            },
+            "radius-27760": {
+                "avg_time": 16.6786,
+                "disk_access": 305.19,
+                "avg_dist_calc": 12248.1,
+                "avg_obj_result": 370.086,
+                "radius": 27760,
+                "num_consults": 500
+            },
+            "radius-33312": {
+                "avg_time": 19.4234,
+                "disk_access": 316.096,
+                "avg_dist_calc": 13851.8,
+                "avg_obj_result": 720.214,
+                "radius": 33312,
+                "num_consults": 500
+            },
+            "radius-38864": {
+                "avg_time": 21.0083,
+                "disk_access": 324.93,
+                "avg_dist_calc": 15204.7,
+                "avg_obj_result": 1266.22,
+                "radius": 38864,
+                "num_consults": 500
+            },
+            "radius-44416": {
+                "avg_time": 24.5288,
+                "disk_access": 332.172,
+                "avg_dist_calc": 16339.1,
+                "avg_obj_result": 2056.84,
+                "radius": 44416,
+                "num_consults": 500
+            },
+            "radius-44423": {
+                "avg_time": 24.8656,
+                "disk_access": 332.188,
+                "avg_dist_calc": 16340.3,
+                "avg_obj_result": 2058.09,
+                "radius": 44423,
+                "num_consults": 500
+            }
+        },
+        "data-2": {
+            "radius-0": {
+                "avg_time": 31.1779,
+                "disk_access": 223.99,
+                "avg_dist_calc": 6750.24,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-2760": {
+                "avg_time": 35.641,
+                "disk_access": 243.096,
+                "avg_dist_calc": 8224.29,
+                "avg_obj_result": 1.296,
+                "radius": 2760,
+                "num_consults": 500
+            },
+            "radius-5520": {
+                "avg_time": 43.1007,
+                "disk_access": 261.036,
+                "avg_dist_calc": 9732.78,
+                "avg_obj_result": 14.122,
+                "radius": 5520,
+                "num_consults": 500
+            },
+            "radius-8280": {
+                "avg_time": 47.5483,
+                "disk_access": 277.66,
+                "avg_dist_calc": 11206,
+                "avg_obj_result": 62.994,
+                "radius": 8280,
+                "num_consults": 500
+            },
+            "radius-11040": {
+                "avg_time": 54.1755,
+                "disk_access": 292.402,
+                "avg_dist_calc": 12606.5,
+                "avg_obj_result": 167.574,
+                "radius": 11040,
+                "num_consults": 500
+            },
+            "radius-13800": {
+                "avg_time": 59.0683,
+                "disk_access": 305.266,
+                "avg_dist_calc": 13910.1,
+                "avg_obj_result": 371.872,
+                "radius": 13800,
+                "num_consults": 500
+            },
+            "radius-16560": {
+                "avg_time": 65.6865,
+                "disk_access": 316.034,
+                "avg_dist_calc": 15092.7,
+                "avg_obj_result": 722.654,
+                "radius": 16560,
+                "num_consults": 500
+            },
+            "radius-19320": {
+                "avg_time": 68.7253,
+                "disk_access": 324.838,
+                "avg_dist_calc": 16129.5,
+                "avg_obj_result": 1269.09,
+                "radius": 19320,
+                "num_consults": 500
+            },
+            "radius-22080": {
+                "avg_time": 76.5622,
+                "disk_access": 332.076,
+                "avg_dist_calc": 17026.6,
+                "avg_obj_result": 2057.82,
+                "radius": 22080,
+                "num_consults": 500
+            },
+            "radius-22081": {
+                "avg_time": 74.1238,
+                "disk_access": 332.076,
+                "avg_dist_calc": 17026.9,
+                "avg_obj_result": 2058.16,
+                "radius": 22081,
+                "num_consults": 500
+            }
+        },
+        "data-3": {
+            "radius-0": {
+                "avg_time": 42.8832,
+                "disk_access": 225.736,
+                "avg_dist_calc": 6889.04,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-1361": {
+                "avg_time": 52.909,
+                "disk_access": 244.544,
+                "avg_dist_calc": 8345.79,
+                "avg_obj_result": 1.3,
+                "radius": 1361,
+                "num_consults": 500
+            },
+            "radius-2722": {
+                "avg_time": 59.6359,
+                "disk_access": 262.11,
+                "avg_dist_calc": 9831.69,
+                "avg_obj_result": 14.25,
+                "radius": 2722,
+                "num_consults": 500
+            },
+            "radius-4083": {
+                "avg_time": 68.7591,
+                "disk_access": 278.276,
+                "avg_dist_calc": 11279.4,
+                "avg_obj_result": 63.088,
+                "radius": 4083,
+                "num_consults": 500
+            },
+            "radius-5444": {
+                "avg_time": 77.1807,
+                "disk_access": 292.814,
+                "avg_dist_calc": 12652.6,
+                "avg_obj_result": 168.476,
+                "radius": 5444,
+                "num_consults": 500
+            },
+            "radius-6805": {
+                "avg_time": 84.9391,
+                "disk_access": 305.41,
+                "avg_dist_calc": 13931.3,
+                "avg_obj_result": 374.476,
+                "radius": 6805,
+                "num_consults": 500
+            },
+            "radius-8166": {
+                "avg_time": 93.2472,
+                "disk_access": 316.08,
+                "avg_dist_calc": 15094.4,
+                "avg_obj_result": 728.082,
+                "radius": 8166,
+                "num_consults": 500
+            },
+            "radius-9527": {
+                "avg_time": 99.5849,
+                "disk_access": 324.758,
+                "avg_dist_calc": 16113.7,
+                "avg_obj_result": 1274.68,
+                "radius": 9527,
+                "num_consults": 500
+            },
+            "radius-10888": {
+                "avg_time": 106.374,
+                "disk_access": 331.84,
+                "avg_dist_calc": 16999.7,
+                "avg_obj_result": 2056.66,
+                "radius": 10888,
+                "num_consults": 500
+            },
+            "radius-10890": {
+                "avg_time": 107.071,
+                "disk_access": 331.852,
+                "avg_dist_calc": 17000.8,
+                "avg_obj_result": 2058.03,
+                "radius": 10890,
+                "num_consults": 500
+            }
+        },
+        "data-4": {
+            "radius-0": {
+                "avg_time": 58.4717,
+                "disk_access": 230.126,
+                "avg_dist_calc": 7234.74,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-656": {
+                "avg_time": 71.4817,
+                "disk_access": 247.864,
+                "avg_dist_calc": 8644.25,
+                "avg_obj_result": 1.364,
+                "radius": 656,
+                "num_consults": 500
+            },
+            "radius-1312": {
+                "avg_time": 81.225,
+                "disk_access": 264.796,
+                "avg_dist_calc": 10068.6,
+                "avg_obj_result": 14.374,
+                "radius": 1312,
+                "num_consults": 500
+            },
+            "radius-1968": {
+                "avg_time": 92.9385,
+                "disk_access": 280.012,
+                "avg_dist_calc": 11453.8,
+                "avg_obj_result": 63.68,
+                "radius": 1968,
+                "num_consults": 500
+            },
+            "radius-2624": {
+                "avg_time": 103.292,
+                "disk_access": 294.002,
+                "avg_dist_calc": 12763,
+                "avg_obj_result": 172.96,
+                "radius": 2624,
+                "num_consults": 500
+            },
+            "radius-3280": {
+                "avg_time": 112.708,
+                "disk_access": 305.948,
+                "avg_dist_calc": 13984.1,
+                "avg_obj_result": 385.232,
+                "radius": 3280,
+                "num_consults": 500
+            },
+            "radius-3936": {
+                "avg_time": 121.935,
+                "disk_access": 316.008,
+                "avg_dist_calc": 15092.7,
+                "avg_obj_result": 745.556,
+                "radius": 3936,
+                "num_consults": 500
+            },
+            "radius-4592": {
+                "avg_time": 130.941,
+                "disk_access": 324.438,
+                "avg_dist_calc": 16075.1,
+                "avg_obj_result": 1291.7,
+                "radius": 4592,
+                "num_consults": 500
+            },
+            "radius-5248": {
+                "avg_time": 138.994,
+                "disk_access": 331.404,
+                "avg_dist_calc": 16931.2,
+                "avg_obj_result": 2057.15,
+                "radius": 5248,
+                "num_consults": 500
+            },
+            "radius-5249": {
+                "avg_time": 138.151,
+                "disk_access": 331.416,
+                "avg_dist_calc": 16932.4,
+                "avg_obj_result": 2058.4,
+                "radius": 5249,
+                "num_consults": 500
+            }
+        },
+        "data-5": {
+            "radius-0": {
+                "avg_time": 81.7756,
+                "disk_access": 240.82,
+                "avg_dist_calc": 8100.29,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-297": {
+                "avg_time": 94.0775,
+                "disk_access": 256.356,
+                "avg_dist_calc": 9379.86,
+                "avg_obj_result": 1.562,
+                "radius": 297,
+                "num_consults": 500
+            },
+            "radius-594": {
+                "avg_time": 106.847,
+                "disk_access": 271.274,
+                "avg_dist_calc": 10653.2,
+                "avg_obj_result": 15.482,
+                "radius": 594,
+                "num_consults": 500
+            },
+            "radius-891": {
+                "avg_time": 119.181,
+                "disk_access": 284.62,
+                "avg_dist_calc": 11884.1,
+                "avg_obj_result": 69.146,
+                "radius": 891,
+                "num_consults": 500
+            },
+            "radius-1188": {
+                "avg_time": 132.257,
+                "disk_access": 296.888,
+                "avg_dist_calc": 13042,
+                "avg_obj_result": 190.646,
+                "radius": 1188,
+                "num_consults": 500
+            },
+            "radius-1485": {
+                "avg_time": 143.737,
+                "disk_access": 307.074,
+                "avg_dist_calc": 14115.8,
+                "avg_obj_result": 420.064,
+                "radius": 1485,
+                "num_consults": 500
+            },
+            "radius-1782": {
+                "avg_time": 153.954,
+                "disk_access": 316.254,
+                "avg_dist_calc": 15099.5,
+                "avg_obj_result": 790.344,
+                "radius": 1782,
+                "num_consults": 500
+            },
+            "radius-2079": {
+                "avg_time": 163.889,
+                "disk_access": 323.934,
+                "avg_dist_calc": 15985.2,
+                "avg_obj_result": 1324.48,
+                "radius": 2079,
+                "num_consults": 500
+            },
+            "radius-2376": {
+                "avg_time": 172.532,
+                "disk_access": 330.536,
+                "avg_dist_calc": 16767.3,
+                "avg_obj_result": 2041.57,
+                "radius": 2376,
+                "num_consults": 500
+            },
+            "radius-2382": {
+                "avg_time": 173.073,
+                "disk_access": 330.656,
+                "avg_dist_calc": 16781.8,
+                "avg_obj_result": 2058.21,
+                "radius": 2382,
+                "num_consults": 500
+            }
+        },
+        "data-6": {
+            "radius-0": {
+                "avg_time": 120.119,
+                "disk_access": 262.924,
+                "avg_dist_calc": 9935.88,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-115": {
+                "avg_time": 130.845,
+                "disk_access": 273.604,
+                "avg_dist_calc": 10898.8,
+                "avg_obj_result": 4.032,
+                "radius": 115,
+                "num_consults": 500
+            },
+            "radius-230": {
+                "avg_time": 144.53,
+                "disk_access": 283.978,
+                "avg_dist_calc": 11829.9,
+                "avg_obj_result": 31.672,
+                "radius": 230,
+                "num_consults": 500
+            },
+            "radius-345": {
+                "avg_time": 162.963,
+                "disk_access": 293.186,
+                "avg_dist_calc": 12738.5,
+                "avg_obj_result": 124.716,
+                "radius": 345,
+                "num_consults": 500
+            },
+            "radius-460": {
+                "avg_time": 168.426,
+                "disk_access": 301.49,
+                "avg_dist_calc": 13576.2,
+                "avg_obj_result": 301.246,
+                "radius": 460,
+                "num_consults": 500
+            },
+            "radius-575": {
+                "avg_time": 177.889,
+                "disk_access": 309.566,
+                "avg_dist_calc": 14365.2,
+                "avg_obj_result": 578.854,
+                "radius": 575,
+                "num_consults": 500
+            },
+            "radius-690": {
+                "avg_time": 188.027,
+                "disk_access": 316.266,
+                "avg_dist_calc": 15092.6,
+                "avg_obj_result": 960.33,
+                "radius": 690,
+                "num_consults": 500
+            },
+            "radius-805": {
+                "avg_time": 197.213,
+                "disk_access": 322.602,
+                "avg_dist_calc": 15774.3,
+                "avg_obj_result": 1450.65,
+                "radius": 805,
+                "num_consults": 500
+            },
+            "radius-920": {
+                "avg_time": 206.368,
+                "disk_access": 328.03,
+                "avg_dist_calc": 16401.1,
+                "avg_obj_result": 2039.61,
+                "radius": 920,
+                "num_consults": 500
+            },
+            "radius-923": {
+                "avg_time": 206.462,
+                "disk_access": 328.144,
+                "avg_dist_calc": 16416.5,
+                "avg_obj_result": 2057.41,
+                "radius": 923,
+                "num_consults": 500
+            }
+        },
+        "data-7": {
+            "radius-0": {
+                "avg_time": 190.681,
+                "disk_access": 300.736,
+                "avg_dist_calc": 13315.6,
+                "avg_obj_result": 1.03,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-25": {
+                "avg_time": 197.464,
+                "disk_access": 303.876,
+                "avg_dist_calc": 13659.6,
+                "avg_obj_result": 90.5,
+                "radius": 25,
+                "num_consults": 500
+            },
+            "radius-50": {
+                "avg_time": 200.891,
+                "disk_access": 307.072,
+                "avg_dist_calc": 13989.9,
+                "avg_obj_result": 208.202,
+                "radius": 50,
+                "num_consults": 500
+            },
+            "radius-75": {
+                "avg_time": 216.476,
+                "disk_access": 310.306,
+                "avg_dist_calc": 14310.5,
+                "avg_obj_result": 370.582,
+                "radius": 75,
+                "num_consults": 500
+            },
+            "radius-100": {
+                "avg_time": 235.068,
+                "disk_access": 313.64,
+                "avg_dist_calc": 14624.4,
+                "avg_obj_result": 572.334,
+                "radius": 100,
+                "num_consults": 500
+            },
+            "radius-125": {
+                "avg_time": 231.875,
+                "disk_access": 316.524,
+                "avg_dist_calc": 14929.7,
+                "avg_obj_result": 791.622,
+                "radius": 125,
+                "num_consults": 500
+            },
+            "radius-150": {
+                "avg_time": 237.71,
+                "disk_access": 319.182,
+                "avg_dist_calc": 15225.6,
+                "avg_obj_result": 1025.86,
+                "radius": 150,
+                "num_consults": 500
+            },
+            "radius-175": {
+                "avg_time": 243.348,
+                "disk_access": 321.702,
+                "avg_dist_calc": 15525.3,
+                "avg_obj_result": 1710.79,
+                "radius": 175,
+                "num_consults": 500
+            },
+            "radius-200": {
+                "avg_time": 240.042,
+                "disk_access": 324.122,
+                "avg_dist_calc": 15794,
+                "avg_obj_result": 2044.44,
+                "radius": 200,
+                "num_consults": 500
+            },
+            "radius-201": {
+                "avg_time": 236.116,
+                "disk_access": 324.2,
+                "avg_dist_calc": 15804.1,
+                "avg_obj_result": 2055.24,
+                "radius": 201,
+                "num_consults": 500
+            }
+        }
+    },
+    "tree-2": {
+        "data-2": {
+            "radius-0": {
+                "avg_time": 3.44986,
+                "disk_access": 221.358,
+                "avg_dist_calc": 342.47,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-2760": {
+                "avg_time": 5.87593,
+                "disk_access": 241.654,
+                "avg_dist_calc": 3108.33,
+                "avg_obj_result": 1.296,
+                "radius": 2760,
+                "num_consults": 500
+            },
+            "radius-5520": {
+                "avg_time": 7.73571,
+                "disk_access": 259.662,
+                "avg_dist_calc": 5722.41,
+                "avg_obj_result": 14.122,
+                "radius": 5520,
+                "num_consults": 500
+            },
+            "radius-8280": {
+                "avg_time": 9.64717,
+                "disk_access": 276.026,
+                "avg_dist_calc": 8093.14,
+                "avg_obj_result": 62.994,
+                "radius": 8280,
+                "num_consults": 500
+            },
+            "radius-11040": {
+                "avg_time": 11.3148,
+                "disk_access": 290.536,
+                "avg_dist_calc": 10216.7,
+                "avg_obj_result": 167.574,
+                "radius": 11040,
+                "num_consults": 500
+            },
+            "radius-13800": {
+                "avg_time": 13.9426,
+                "disk_access": 303.036,
+                "avg_dist_calc": 12091.3,
+                "avg_obj_result": 371.872,
+                "radius": 13800,
+                "num_consults": 500
+            },
+            "radius-16560": {
+                "avg_time": 15.3223,
+                "disk_access": 313.806,
+                "avg_dist_calc": 13706.7,
+                "avg_obj_result": 722.654,
+                "radius": 16560,
+                "num_consults": 500
+            },
+            "radius-19320": {
+                "avg_time": 17.9959,
+                "disk_access": 322.832,
+                "avg_dist_calc": 15080,
+                "avg_obj_result": 1269.09,
+                "radius": 19320,
+                "num_consults": 500
+            },
+            "radius-22080": {
+                "avg_time": 19.1648,
+                "disk_access": 330.332,
+                "avg_dist_calc": 16235.4,
+                "avg_obj_result": 2057.82,
+                "radius": 22080,
+                "num_consults": 500
+            },
+            "radius-22081": {
+                "avg_time": 19.3108,
+                "disk_access": 330.332,
+                "avg_dist_calc": 16235.8,
+                "avg_obj_result": 2058.16,
+                "radius": 22081,
+                "num_consults": 500
+            }
+        },
+        "data-3": {
+            "radius-0": {
+                "avg_time": 29.1336,
+                "disk_access": 223.204,
+                "avg_dist_calc": 6645.97,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-1361": {
+                "avg_time": 36.0832,
+                "disk_access": 242.93,
+                "avg_dist_calc": 8078.89,
+                "avg_obj_result": 1.3,
+                "radius": 1361,
+                "num_consults": 500
+            },
+            "radius-2722": {
+                "avg_time": 41.2709,
+                "disk_access": 260.616,
+                "avg_dist_calc": 9554.02,
+                "avg_obj_result": 14.25,
+                "radius": 2722,
+                "num_consults": 500
+            },
+            "radius-4083": {
+                "avg_time": 46.8894,
+                "disk_access": 276.574,
+                "avg_dist_calc": 10998,
+                "avg_obj_result": 63.088,
+                "radius": 4083,
+                "num_consults": 500
+            },
+            "radius-5444": {
+                "avg_time": 53.3744,
+                "disk_access": 290.916,
+                "avg_dist_calc": 12386.2,
+                "avg_obj_result": 168.476,
+                "radius": 5444,
+                "num_consults": 500
+            },
+            "radius-6805": {
+                "avg_time": 58.9183,
+                "disk_access": 303.13,
+                "avg_dist_calc": 13686.9,
+                "avg_obj_result": 374.476,
+                "radius": 6805,
+                "num_consults": 500
+            },
+            "radius-8166": {
+                "avg_time": 64.3729,
+                "disk_access": 313.8,
+                "avg_dist_calc": 14865.8,
+                "avg_obj_result": 728.082,
+                "radius": 8166,
+                "num_consults": 500
+            },
+            "radius-9527": {
+                "avg_time": 69.1773,
+                "disk_access": 322.592,
+                "avg_dist_calc": 15913.7,
+                "avg_obj_result": 1274.68,
+                "radius": 9527,
+                "num_consults": 500
+            },
+            "radius-10888": {
+                "avg_time": 78.4232,
+                "disk_access": 330.112,
+                "avg_dist_calc": 16826.1,
+                "avg_obj_result": 2056.66,
+                "radius": 10888,
+                "num_consults": 500
+            },
+            "radius-10890": {
+                "avg_time": 77.8551,
+                "disk_access": 330.116,
+                "avg_dist_calc": 16827.3,
+                "avg_obj_result": 2058.03,
+                "radius": 10890,
+                "num_consults": 500
+            }
+        },
+        "data-4": {
+            "radius-0": {
+                "avg_time": 46.7124,
+                "disk_access": 227.656,
+                "avg_dist_calc": 6973.56,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-656": {
+                "avg_time": 55.8373,
+                "disk_access": 246.484,
+                "avg_dist_calc": 8363.81,
+                "avg_obj_result": 1.364,
+                "radius": 656,
+                "num_consults": 500
+            },
+            "radius-1312": {
+                "avg_time": 63.8973,
+                "disk_access": 263.178,
+                "avg_dist_calc": 9784.16,
+                "avg_obj_result": 14.374,
+                "radius": 1312,
+                "num_consults": 500
+            },
+            "radius-1968": {
+                "avg_time": 74.352,
+                "disk_access": 278.224,
+                "avg_dist_calc": 11169.4,
+                "avg_obj_result": 63.68,
+                "radius": 1968,
+                "num_consults": 500
+            },
+            "radius-2624": {
+                "avg_time": 81.9121,
+                "disk_access": 291.856,
+                "avg_dist_calc": 12494,
+                "avg_obj_result": 172.96,
+                "radius": 2624,
+                "num_consults": 500
+            },
+            "radius-3280": {
+                "avg_time": 92.4436,
+                "disk_access": 303.692,
+                "avg_dist_calc": 13736.2,
+                "avg_obj_result": 385.232,
+                "radius": 3280,
+                "num_consults": 500
+            },
+            "radius-3936": {
+                "avg_time": 98.9568,
+                "disk_access": 313.79,
+                "avg_dist_calc": 14864.3,
+                "avg_obj_result": 745.556,
+                "radius": 3936,
+                "num_consults": 500
+            },
+            "radius-4592": {
+                "avg_time": 108.072,
+                "disk_access": 322.238,
+                "avg_dist_calc": 15873.8,
+                "avg_obj_result": 1291.7,
+                "radius": 4592,
+                "num_consults": 500
+            },
+            "radius-5248": {
+                "avg_time": 115.853,
+                "disk_access": 329.562,
+                "avg_dist_calc": 16759.3,
+                "avg_obj_result": 2057.15,
+                "radius": 5248,
+                "num_consults": 500
+            },
+            "radius-5249": {
+                "avg_time": 116.898,
+                "disk_access": 329.576,
+                "avg_dist_calc": 16760.6,
+                "avg_obj_result": 2058.4,
+                "radius": 5249,
+                "num_consults": 500
+            }
+        },
+        "data-5": {
+            "radius-0": {
+                "avg_time": 67.5246,
+                "disk_access": 238.99,
+                "avg_dist_calc": 7803.65,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-297": {
+                "avg_time": 78.9435,
+                "disk_access": 255.272,
+                "avg_dist_calc": 9082.41,
+                "avg_obj_result": 1.562,
+                "radius": 297,
+                "num_consults": 500
+            },
+            "radius-594": {
+                "avg_time": 89.5174,
+                "disk_access": 269.784,
+                "avg_dist_calc": 10358.5,
+                "avg_obj_result": 15.482,
+                "radius": 594,
+                "num_consults": 500
+            },
+            "radius-891": {
+                "avg_time": 100.47,
+                "disk_access": 283.07,
+                "avg_dist_calc": 11599.2,
+                "avg_obj_result": 69.146,
+                "radius": 891,
+                "num_consults": 500
+            },
+            "radius-1188": {
+                "avg_time": 111.339,
+                "disk_access": 294.584,
+                "avg_dist_calc": 12775.1,
+                "avg_obj_result": 190.646,
+                "radius": 1188,
+                "num_consults": 500
+            },
+            "radius-1485": {
+                "avg_time": 122.326,
+                "disk_access": 305.062,
+                "avg_dist_calc": 13876.5,
+                "avg_obj_result": 420.064,
+                "radius": 1485,
+                "num_consults": 500
+            },
+            "radius-1782": {
+                "avg_time": 130.995,
+                "disk_access": 314.24,
+                "avg_dist_calc": 14884.7,
+                "avg_obj_result": 790.344,
+                "radius": 1782,
+                "num_consults": 500
+            },
+            "radius-2079": {
+                "avg_time": 139.862,
+                "disk_access": 321.976,
+                "avg_dist_calc": 15796.5,
+                "avg_obj_result": 1324.48,
+                "radius": 2079,
+                "num_consults": 500
+            },
+            "radius-2376": {
+                "avg_time": 150.075,
+                "disk_access": 328.58,
+                "avg_dist_calc": 16606.4,
+                "avg_obj_result": 2041.57,
+                "radius": 2376,
+                "num_consults": 500
+            },
+            "radius-2382": {
+                "avg_time": 150.16,
+                "disk_access": 328.724,
+                "avg_dist_calc": 16621.9,
+                "avg_obj_result": 2058.21,
+                "radius": 2382,
+                "num_consults": 500
+            }
+        },
+        "data-6": {
+            "radius-0": {
+                "avg_time": 106.727,
+                "disk_access": 261.472,
+                "avg_dist_calc": 9678.26,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-115": {
+                "avg_time": 117.631,
+                "disk_access": 272.954,
+                "avg_dist_calc": 10647,
+                "avg_obj_result": 4.032,
+                "radius": 115,
+                "num_consults": 500
+            },
+            "radius-230": {
+                "avg_time": 126.781,
+                "disk_access": 282.896,
+                "avg_dist_calc": 11592.6,
+                "avg_obj_result": 31.672,
+                "radius": 230,
+                "num_consults": 500
+            },
+            "radius-345": {
+                "avg_time": 138.938,
+                "disk_access": 291.974,
+                "avg_dist_calc": 12510.8,
+                "avg_obj_result": 124.716,
+                "radius": 345,
+                "num_consults": 500
+            },
+            "radius-460": {
+                "avg_time": 147.653,
+                "disk_access": 300.284,
+                "avg_dist_calc": 13367.9,
+                "avg_obj_result": 301.246,
+                "radius": 460,
+                "num_consults": 500
+            },
+            "radius-575": {
+                "avg_time": 159.486,
+                "disk_access": 307.69,
+                "avg_dist_calc": 14175.4,
+                "avg_obj_result": 578.854,
+                "radius": 575,
+                "num_consults": 500
+            },
+            "radius-690": {
+                "avg_time": 170.526,
+                "disk_access": 314.45,
+                "avg_dist_calc": 14932.1,
+                "avg_obj_result": 960.33,
+                "radius": 690,
+                "num_consults": 500
+            },
+            "radius-805": {
+                "avg_time": 179.85,
+                "disk_access": 320.436,
+                "avg_dist_calc": 15627.3,
+                "avg_obj_result": 1450.65,
+                "radius": 805,
+                "num_consults": 500
+            },
+            "radius-920": {
+                "avg_time": 186.601,
+                "disk_access": 325.782,
+                "avg_dist_calc": 16267.4,
+                "avg_obj_result": 2039.61,
+                "radius": 920,
+                "num_consults": 500
+            },
+            "radius-923": {
+                "avg_time": 187.571,
+                "disk_access": 325.89,
+                "avg_dist_calc": 16283.7,
+                "avg_obj_result": 2057.41,
+                "radius": 923,
+                "num_consults": 500
+            }
+        },
+        "data-7": {
+            "radius-0": {
+                "avg_time": 176.232,
+                "disk_access": 298.698,
+                "avg_dist_calc": 13214.5,
+                "avg_obj_result": 1.03,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-25": {
+                "avg_time": 181.746,
+                "disk_access": 302.23,
+                "avg_dist_calc": 13560.2,
+                "avg_obj_result": 90.5,
+                "radius": 25,
+                "num_consults": 500
+            },
+            "radius-50": {
+                "avg_time": 186.291,
+                "disk_access": 305.336,
+                "avg_dist_calc": 13897.9,
+                "avg_obj_result": 208.202,
+                "radius": 50,
+                "num_consults": 500
+            },
+            "radius-75": {
+                "avg_time": 185.798,
+                "disk_access": 308.3,
+                "avg_dist_calc": 14229.7,
+                "avg_obj_result": 370.582,
+                "radius": 75,
+                "num_consults": 500
+            },
+            "radius-100": {
+                "avg_time": 190.527,
+                "disk_access": 310.884,
+                "avg_dist_calc": 14548.7,
+                "avg_obj_result": 572.334,
+                "radius": 100,
+                "num_consults": 500
+            },
+            "radius-125": {
+                "avg_time": 197.209,
+                "disk_access": 313.786,
+                "avg_dist_calc": 14856.2,
+                "avg_obj_result": 791.622,
+                "radius": 125,
+                "num_consults": 500
+            },
+            "radius-150": {
+                "avg_time": 198.895,
+                "disk_access": 316.318,
+                "avg_dist_calc": 15158.3,
+                "avg_obj_result": 1025.86,
+                "radius": 150,
+                "num_consults": 500
+            },
+            "radius-175": {
+                "avg_time": 204.054,
+                "disk_access": 318.556,
+                "avg_dist_calc": 15461.1,
+                "avg_obj_result": 1710.79,
+                "radius": 175,
+                "num_consults": 500
+            },
+            "radius-200": {
+                "avg_time": 208.379,
+                "disk_access": 320.924,
+                "avg_dist_calc": 15733.5,
+                "avg_obj_result": 2044.44,
+                "radius": 200,
+                "num_consults": 500
+            },
+            "radius-201": {
+                "avg_time": 214.701,
+                "disk_access": 321.01,
+                "avg_dist_calc": 15744.1,
+                "avg_obj_result": 2055.24,
+                "radius": 201,
+                "num_consults": 500
+            }
+        }
+    },
+    "tree-3": {
+        "data-3": {
+            "radius-0": {
+                "avg_time": 3.64279,
+                "disk_access": 217.326,
+                "avg_dist_calc": 344.572,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-1361": {
+                "avg_time": 5.61894,
+                "disk_access": 237.216,
+                "avg_dist_calc": 3026.44,
+                "avg_obj_result": 1.3,
+                "radius": 1361,
+                "num_consults": 500
+            },
+            "radius-2722": {
+                "avg_time": 7.21217,
+                "disk_access": 256.038,
+                "avg_dist_calc": 5581.29,
+                "avg_obj_result": 14.25,
+                "radius": 2722,
+                "num_consults": 500
+            },
+            "radius-4083": {
+                "avg_time": 8.62655,
+                "disk_access": 273.154,
+                "avg_dist_calc": 7918.93,
+                "avg_obj_result": 63.088,
+                "radius": 4083,
+                "num_consults": 500
+            },
+            "radius-5444": {
+                "avg_time": 10.1176,
+                "disk_access": 288.9,
+                "avg_dist_calc": 10018.6,
+                "avg_obj_result": 168.476,
+                "radius": 5444,
+                "num_consults": 500
+            },
+            "radius-6805": {
+                "avg_time": 11.2139,
+                "disk_access": 303.2,
+                "avg_dist_calc": 11884.6,
+                "avg_obj_result": 374.476,
+                "radius": 6805,
+                "num_consults": 500
+            },
+            "radius-8166": {
+                "avg_time": 12.9587,
+                "disk_access": 315.54,
+                "avg_dist_calc": 13523.6,
+                "avg_obj_result": 728.082,
+                "radius": 8166,
+                "num_consults": 500
+            },
+            "radius-9527": {
+                "avg_time": 14.393,
+                "disk_access": 325.904,
+                "avg_dist_calc": 14925.9,
+                "avg_obj_result": 1274.68,
+                "radius": 9527,
+                "num_consults": 500
+            },
+            "radius-10888": {
+                "avg_time": 16.5747,
+                "disk_access": 334.572,
+                "avg_dist_calc": 16104.8,
+                "avg_obj_result": 2056.66,
+                "radius": 10888,
+                "num_consults": 500
+            },
+            "radius-10890": {
+                "avg_time": 16.5569,
+                "disk_access": 334.588,
+                "avg_dist_calc": 16106.3,
+                "avg_obj_result": 2058.03,
+                "radius": 10890,
+                "num_consults": 500
+            }
+        },
+        "data-4": {
+            "radius-0": {
+                "avg_time": 29.6,
+                "disk_access": 221.826,
+                "avg_dist_calc": 6711.59,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-656": {
+                "avg_time": 35.2052,
+                "disk_access": 240.952,
+                "avg_dist_calc": 8081.29,
+                "avg_obj_result": 1.364,
+                "radius": 656,
+                "num_consults": 500
+            },
+            "radius-1312": {
+                "avg_time": 41.012,
+                "disk_access": 258.834,
+                "avg_dist_calc": 9492.29,
+                "avg_obj_result": 14.374,
+                "radius": 1312,
+                "num_consults": 500
+            },
+            "radius-1968": {
+                "avg_time": 47.2953,
+                "disk_access": 275.328,
+                "avg_dist_calc": 10881.6,
+                "avg_obj_result": 63.68,
+                "radius": 1968,
+                "num_consults": 500
+            },
+            "radius-2624": {
+                "avg_time": 53.2519,
+                "disk_access": 290.252,
+                "avg_dist_calc": 12216.3,
+                "avg_obj_result": 172.96,
+                "radius": 2624,
+                "num_consults": 500
+            },
+            "radius-3280": {
+                "avg_time": 57.6613,
+                "disk_access": 303.788,
+                "avg_dist_calc": 13478.3,
+                "avg_obj_result": 385.232,
+                "radius": 3280,
+                "num_consults": 500
+            },
+            "radius-3936": {
+                "avg_time": 63.466,
+                "disk_access": 315.68,
+                "avg_dist_calc": 14650.7,
+                "avg_obj_result": 745.556,
+                "radius": 3936,
+                "num_consults": 500
+            },
+            "radius-4592": {
+                "avg_time": 68.859,
+                "disk_access": 325.732,
+                "avg_dist_calc": 15704.1,
+                "avg_obj_result": 1291.7,
+                "radius": 4592,
+                "num_consults": 500
+            },
+            "radius-5248": {
+                "avg_time": 74.4503,
+                "disk_access": 334.204,
+                "avg_dist_calc": 16629.8,
+                "avg_obj_result": 2057.15,
+                "radius": 5248,
+                "num_consults": 500
+            },
+            "radius-5249": {
+                "avg_time": 74.4578,
+                "disk_access": 334.212,
+                "avg_dist_calc": 16631.1,
+                "avg_obj_result": 2058.4,
+                "radius": 5249,
+                "num_consults": 500
+            }
+        },
+        "data-5": {
+            "radius-0": {
+                "avg_time": 49.4279,
+                "disk_access": 233.624,
+                "avg_dist_calc": 7563.38,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-297": {
+                "avg_time": 57.5369,
+                "disk_access": 250.442,
+                "avg_dist_calc": 8820.96,
+                "avg_obj_result": 1.562,
+                "radius": 297,
+                "num_consults": 500
+            },
+            "radius-594": {
+                "avg_time": 65.7319,
+                "disk_access": 266.17,
+                "avg_dist_calc": 10093.3,
+                "avg_obj_result": 15.482,
+                "radius": 594,
+                "num_consults": 500
+            },
+            "radius-891": {
+                "avg_time": 73.5429,
+                "disk_access": 280.552,
+                "avg_dist_calc": 11333.2,
+                "avg_obj_result": 69.146,
+                "radius": 891,
+                "num_consults": 500
+            },
+            "radius-1188": {
+                "avg_time": 81.3229,
+                "disk_access": 293.416,
+                "avg_dist_calc": 12517.5,
+                "avg_obj_result": 190.646,
+                "radius": 1188,
+                "num_consults": 500
+            },
+            "radius-1485": {
+                "avg_time": 88.579,
+                "disk_access": 305.456,
+                "avg_dist_calc": 13631.7,
+                "avg_obj_result": 420.064,
+                "radius": 1485,
+                "num_consults": 500
+            },
+            "radius-1782": {
+                "avg_time": 95.0677,
+                "disk_access": 315.874,
+                "avg_dist_calc": 14668.8,
+                "avg_obj_result": 790.344,
+                "radius": 1782,
+                "num_consults": 500
+            },
+            "radius-2079": {
+                "avg_time": 102.065,
+                "disk_access": 325.24,
+                "avg_dist_calc": 15622,
+                "avg_obj_result": 1324.48,
+                "radius": 2079,
+                "num_consults": 500
+            },
+            "radius-2376": {
+                "avg_time": 109.774,
+                "disk_access": 333.208,
+                "avg_dist_calc": 16467.5,
+                "avg_obj_result": 2041.57,
+                "radius": 2376,
+                "num_consults": 500
+            },
+            "radius-2382": {
+                "avg_time": 111.129,
+                "disk_access": 333.38,
+                "avg_dist_calc": 16483.7,
+                "avg_obj_result": 2058.21,
+                "radius": 2382,
+                "num_consults": 500
+            }
+        },
+        "data-6": {
+            "radius-0": {
+                "avg_time": 81.2197,
+                "disk_access": 256.254,
+                "avg_dist_calc": 9367.05,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-115": {
+                "avg_time": 89.7996,
+                "disk_access": 268.446,
+                "avg_dist_calc": 10331.2,
+                "avg_obj_result": 4.032,
+                "radius": 115,
+                "num_consults": 500
+            },
+            "radius-230": {
+                "avg_time": 96.8329,
+                "disk_access": 279.54,
+                "avg_dist_calc": 11279.9,
+                "avg_obj_result": 31.672,
+                "radius": 230,
+                "num_consults": 500
+            },
+            "radius-345": {
+                "avg_time": 105.758,
+                "disk_access": 290.08,
+                "avg_dist_calc": 12198,
+                "avg_obj_result": 124.716,
+                "radius": 345,
+                "num_consults": 500
+            },
+            "radius-460": {
+                "avg_time": 114.493,
+                "disk_access": 299.682,
+                "avg_dist_calc": 13068.1,
+                "avg_obj_result": 301.246,
+                "radius": 460,
+                "num_consults": 500
+            },
+            "radius-575": {
+                "avg_time": 121.055,
+                "disk_access": 308.104,
+                "avg_dist_calc": 13890.4,
+                "avg_obj_result": 578.854,
+                "radius": 575,
+                "num_consults": 500
+            },
+            "radius-690": {
+                "avg_time": 129.75,
+                "disk_access": 316.324,
+                "avg_dist_calc": 14663.9,
+                "avg_obj_result": 960.33,
+                "radius": 690,
+                "num_consults": 500
+            },
+            "radius-805": {
+                "avg_time": 147.078,
+                "disk_access": 323.526,
+                "avg_dist_calc": 15389.4,
+                "avg_obj_result": 1450.65,
+                "radius": 805,
+                "num_consults": 500
+            },
+            "radius-920": {
+                "avg_time": 147.251,
+                "disk_access": 329.976,
+                "avg_dist_calc": 16062.1,
+                "avg_obj_result": 2039.61,
+                "radius": 920,
+                "num_consults": 500
+            },
+            "radius-923": {
+                "avg_time": 146.353,
+                "disk_access": 330.118,
+                "avg_dist_calc": 16078.8,
+                "avg_obj_result": 2057.41,
+                "radius": 923,
+                "num_consults": 500
+            }
+        },
+        "data-7": {
+            "radius-0": {
+                "avg_time": 141.204,
+                "disk_access": 298.324,
+                "avg_dist_calc": 12882.5,
+                "avg_obj_result": 1.03,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-25": {
+                "avg_time": 145.285,
+                "disk_access": 302.466,
+                "avg_dist_calc": 13239.3,
+                "avg_obj_result": 90.5,
+                "radius": 25,
+                "num_consults": 500
+            },
+            "radius-50": {
+                "avg_time": 148.903,
+                "disk_access": 306.4,
+                "avg_dist_calc": 13584.8,
+                "avg_obj_result": 208.202,
+                "radius": 50,
+                "num_consults": 500
+            },
+            "radius-75": {
+                "avg_time": 152.273,
+                "disk_access": 309.85,
+                "avg_dist_calc": 13926.4,
+                "avg_obj_result": 370.582,
+                "radius": 75,
+                "num_consults": 500
+            },
+            "radius-100": {
+                "avg_time": 158.385,
+                "disk_access": 313.3,
+                "avg_dist_calc": 14256.5,
+                "avg_obj_result": 572.334,
+                "radius": 100,
+                "num_consults": 500
+            },
+            "radius-125": {
+                "avg_time": 164.926,
+                "disk_access": 316.392,
+                "avg_dist_calc": 14573.9,
+                "avg_obj_result": 791.622,
+                "radius": 125,
+                "num_consults": 500
+            },
+            "radius-150": {
+                "avg_time": 166.458,
+                "disk_access": 319.97,
+                "avg_dist_calc": 14880.1,
+                "avg_obj_result": 1025.86,
+                "radius": 150,
+                "num_consults": 500
+            },
+            "radius-175": {
+                "avg_time": 170.672,
+                "disk_access": 322.784,
+                "avg_dist_calc": 15190.1,
+                "avg_obj_result": 1710.79,
+                "radius": 175,
+                "num_consults": 500
+            },
+            "radius-200": {
+                "avg_time": 169.888,
+                "disk_access": 325.676,
+                "avg_dist_calc": 15472.1,
+                "avg_obj_result": 2044.44,
+                "radius": 200,
+                "num_consults": 500
+            },
+            "radius-201": {
+                "avg_time": 174.222,
+                "disk_access": 325.76,
+                "avg_dist_calc": 15483,
+                "avg_obj_result": 2055.24,
+                "radius": 201,
+                "num_consults": 500
+            }
+        }
+    },
+    "tree-4": {
+        "data-4": {
+            "radius-0": {
+                "avg_time": 3.42534,
+                "disk_access": 210.664,
+                "avg_dist_calc": 344.914,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-656": {
+                "avg_time": 5.06582,
+                "disk_access": 229.062,
+                "avg_dist_calc": 2875.41,
+                "avg_obj_result": 1.364,
+                "radius": 656,
+                "num_consults": 500
+            },
+            "radius-1312": {
+                "avg_time": 6.29614,
+                "disk_access": 246.44,
+                "avg_dist_calc": 5284.77,
+                "avg_obj_result": 14.374,
+                "radius": 1312,
+                "num_consults": 500
+            },
+            "radius-1968": {
+                "avg_time": 7.61627,
+                "disk_access": 262.442,
+                "avg_dist_calc": 7503.79,
+                "avg_obj_result": 63.68,
+                "radius": 1968,
+                "num_consults": 500
+            },
+            "radius-2624": {
+                "avg_time": 8.19338,
+                "disk_access": 277.362,
+                "avg_dist_calc": 9495.35,
+                "avg_obj_result": 172.96,
+                "radius": 2624,
+                "num_consults": 500
+            },
+            "radius-3280": {
+                "avg_time": 9.81029,
+                "disk_access": 291.482,
+                "avg_dist_calc": 11277.7,
+                "avg_obj_result": 385.232,
+                "radius": 3280,
+                "num_consults": 500
+            },
+            "radius-3936": {
+                "avg_time": 11.521,
+                "disk_access": 304.026,
+                "avg_dist_calc": 12853.5,
+                "avg_obj_result": 745.556,
+                "radius": 3936,
+                "num_consults": 500
+            },
+            "radius-4592": {
+                "avg_time": 12.864,
+                "disk_access": 315.696,
+                "avg_dist_calc": 14236.5,
+                "avg_obj_result": 1291.7,
+                "radius": 4592,
+                "num_consults": 500
+            },
+            "radius-5248": {
+                "avg_time": 14.4048,
+                "disk_access": 325.296,
+                "avg_dist_calc": 15427.8,
+                "avg_obj_result": 2057.15,
+                "radius": 5248,
+                "num_consults": 500
+            },
+            "radius-5249": {
+                "avg_time": 14.3557,
+                "disk_access": 325.316,
+                "avg_dist_calc": 15429.4,
+                "avg_obj_result": 2058.4,
+                "radius": 5249,
+                "num_consults": 500
+            }
+        },
+        "data-5": {
+            "radius-0": {
+                "avg_time": 31.0438,
+                "disk_access": 222.134,
+                "avg_dist_calc": 7084.28,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-297": {
+                "avg_time": 35.7667,
+                "disk_access": 238.102,
+                "avg_dist_calc": 8299.32,
+                "avg_obj_result": 1.562,
+                "radius": 297,
+                "num_consults": 500
+            },
+            "radius-594": {
+                "avg_time": 40.0878,
+                "disk_access": 253.402,
+                "avg_dist_calc": 9526.84,
+                "avg_obj_result": 15.482,
+                "radius": 594,
+                "num_consults": 500
+            },
+            "radius-891": {
+                "avg_time": 45.2808,
+                "disk_access": 267.392,
+                "avg_dist_calc": 10742.9,
+                "avg_obj_result": 69.146,
+                "radius": 891,
+                "num_consults": 500
+            },
+            "radius-1188": {
+                "avg_time": 51.4541,
+                "disk_access": 280.638,
+                "avg_dist_calc": 11902.5,
+                "avg_obj_result": 190.646,
+                "radius": 1188,
+                "num_consults": 500
+            },
+            "radius-1485": {
+                "avg_time": 55.6075,
+                "disk_access": 292.884,
+                "avg_dist_calc": 13008.9,
+                "avg_obj_result": 420.064,
+                "radius": 1485,
+                "num_consults": 500
+            },
+            "radius-1782": {
+                "avg_time": 61.3479,
+                "disk_access": 304.022,
+                "avg_dist_calc": 14050.5,
+                "avg_obj_result": 790.344,
+                "radius": 1782,
+                "num_consults": 500
+            },
+            "radius-2079": {
+                "avg_time": 66.488,
+                "disk_access": 314.146,
+                "avg_dist_calc": 15012.7,
+                "avg_obj_result": 1324.48,
+                "radius": 2079,
+                "num_consults": 500
+            },
+            "radius-2376": {
+                "avg_time": 71.2346,
+                "disk_access": 323.298,
+                "avg_dist_calc": 15891.1,
+                "avg_obj_result": 2041.57,
+                "radius": 2376,
+                "num_consults": 500
+            },
+            "radius-2382": {
+                "avg_time": 76.184,
+                "disk_access": 323.426,
+                "avg_dist_calc": 15907.9,
+                "avg_obj_result": 2058.21,
+                "radius": 2382,
+                "num_consults": 500
+            }
+        },
+        "data-6": {
+            "radius-0": {
+                "avg_time": 66.1418,
+                "disk_access": 245.234,
+                "avg_dist_calc": 8904.16,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-115": {
+                "avg_time": 69.9486,
+                "disk_access": 256.788,
+                "avg_dist_calc": 9834.17,
+                "avg_obj_result": 4.032,
+                "radius": 115,
+                "num_consults": 500
+            },
+            "radius-230": {
+                "avg_time": 76.4642,
+                "disk_access": 268.136,
+                "avg_dist_calc": 10755.2,
+                "avg_obj_result": 31.672,
+                "radius": 230,
+                "num_consults": 500
+            },
+            "radius-345": {
+                "avg_time": 81.7871,
+                "disk_access": 278.306,
+                "avg_dist_calc": 11669,
+                "avg_obj_result": 124.716,
+                "radius": 345,
+                "num_consults": 500
+            },
+            "radius-460": {
+                "avg_time": 88.3066,
+                "disk_access": 287.964,
+                "avg_dist_calc": 12522.2,
+                "avg_obj_result": 301.246,
+                "radius": 460,
+                "num_consults": 500
+            },
+            "radius-575": {
+                "avg_time": 94.2613,
+                "disk_access": 296.906,
+                "avg_dist_calc": 13334.5,
+                "avg_obj_result": 578.854,
+                "radius": 575,
+                "num_consults": 500
+            },
+            "radius-690": {
+                "avg_time": 100.38,
+                "disk_access": 304.91,
+                "avg_dist_calc": 14103.2,
+                "avg_obj_result": 960.33,
+                "radius": 690,
+                "num_consults": 500
+            },
+            "radius-805": {
+                "avg_time": 105.69,
+                "disk_access": 312.702,
+                "avg_dist_calc": 14830.4,
+                "avg_obj_result": 1450.65,
+                "radius": 805,
+                "num_consults": 500
+            },
+            "radius-920": {
+                "avg_time": 111.833,
+                "disk_access": 319.512,
+                "avg_dist_calc": 15512.6,
+                "avg_obj_result": 2039.61,
+                "radius": 920,
+                "num_consults": 500
+            },
+            "radius-923": {
+                "avg_time": 112.651,
+                "disk_access": 319.69,
+                "avg_dist_calc": 15529.2,
+                "avg_obj_result": 2057.41,
+                "radius": 923,
+                "num_consults": 500
+            }
+        },
+        "data-7": {
+            "radius-0": {
+                "avg_time": 117.247,
+                "disk_access": 287.366,
+                "avg_dist_calc": 12386.5,
+                "avg_obj_result": 1.03,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-25": {
+                "avg_time": 122.291,
+                "disk_access": 291.13,
+                "avg_dist_calc": 12735.5,
+                "avg_obj_result": 90.5,
+                "radius": 25,
+                "num_consults": 500
+            },
+            "radius-50": {
+                "avg_time": 124.991,
+                "disk_access": 294.818,
+                "avg_dist_calc": 13074.7,
+                "avg_obj_result": 208.202,
+                "radius": 50,
+                "num_consults": 500
+            },
+            "radius-75": {
+                "avg_time": 129.455,
+                "disk_access": 298.33,
+                "avg_dist_calc": 13417,
+                "avg_obj_result": 370.582,
+                "radius": 75,
+                "num_consults": 500
+            },
+            "radius-100": {
+                "avg_time": 133.05,
+                "disk_access": 302.046,
+                "avg_dist_calc": 13745.2,
+                "avg_obj_result": 572.334,
+                "radius": 100,
+                "num_consults": 500
+            },
+            "radius-125": {
+                "avg_time": 135.83,
+                "disk_access": 305.256,
+                "avg_dist_calc": 14058,
+                "avg_obj_result": 791.622,
+                "radius": 125,
+                "num_consults": 500
+            },
+            "radius-150": {
+                "avg_time": 139.756,
+                "disk_access": 308.782,
+                "avg_dist_calc": 14366.7,
+                "avg_obj_result": 1025.86,
+                "radius": 150,
+                "num_consults": 500
+            },
+            "radius-175": {
+                "avg_time": 145.299,
+                "disk_access": 311.748,
+                "avg_dist_calc": 14694.6,
+                "avg_obj_result": 1710.79,
+                "radius": 175,
+                "num_consults": 500
+            },
+            "radius-200": {
+                "avg_time": 149.373,
+                "disk_access": 314.994,
+                "avg_dist_calc": 14983.2,
+                "avg_obj_result": 2044.44,
+                "radius": 200,
+                "num_consults": 500
+            },
+            "radius-201": {
+                "avg_time": 149.612,
+                "disk_access": 315.102,
+                "avg_dist_calc": 14994.5,
+                "avg_obj_result": 2055.24,
+                "radius": 201,
+                "num_consults": 500
+            }
+        }
+    },
+    "tree-5": {
+        "data-5": {
+            "radius-0": {
+                "avg_time": 3.12897,
+                "disk_access": 173.66,
+                "avg_dist_calc": 342.498,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-297": {
+                "avg_time": 4.52667,
+                "disk_access": 191.93,
+                "avg_dist_calc": 2356.48,
+                "avg_obj_result": 1.562,
+                "radius": 297,
+                "num_consults": 500
+            },
+            "radius-594": {
+                "avg_time": 5.21969,
+                "disk_access": 210.208,
+                "avg_dist_calc": 4310.11,
+                "avg_obj_result": 15.482,
+                "radius": 594,
+                "num_consults": 500
+            },
+            "radius-891": {
+                "avg_time": 6.36959,
+                "disk_access": 228.202,
+                "avg_dist_calc": 6177.35,
+                "avg_obj_result": 69.146,
+                "radius": 891,
+                "num_consults": 500
+            },
+            "radius-1188": {
+                "avg_time": 7.62003,
+                "disk_access": 246.136,
+                "avg_dist_calc": 7922.31,
+                "avg_obj_result": 190.646,
+                "radius": 1188,
+                "num_consults": 500
+            },
+            "radius-1485": {
+                "avg_time": 8.55708,
+                "disk_access": 263.258,
+                "avg_dist_calc": 9552.66,
+                "avg_obj_result": 420.064,
+                "radius": 1485,
+                "num_consults": 500
+            },
+            "radius-1782": {
+                "avg_time": 10.0984,
+                "disk_access": 280.218,
+                "avg_dist_calc": 11069.3,
+                "avg_obj_result": 790.344,
+                "radius": 1782,
+                "num_consults": 500
+            },
+            "radius-2079": {
+                "avg_time": 11.7178,
+                "disk_access": 295.986,
+                "avg_dist_calc": 12482.1,
+                "avg_obj_result": 1324.48,
+                "radius": 2079,
+                "num_consults": 500
+            },
+            "radius-2376": {
+                "avg_time": 13.8568,
+                "disk_access": 309.96,
+                "avg_dist_calc": 13767.7,
+                "avg_obj_result": 2041.57,
+                "radius": 2376,
+                "num_consults": 500
+            },
+            "radius-2382": {
+                "avg_time": 14.2014,
+                "disk_access": 310.23,
+                "avg_dist_calc": 13792.3,
+                "avg_obj_result": 2058.21,
+                "radius": 2382,
+                "num_consults": 500
+            }
+        },
+        "data-6": {
+            "radius-0": {
+                "avg_time": 30.6752,
+                "disk_access": 202.68,
+                "avg_dist_calc": 6684.1,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-115": {
+                "avg_time": 34.8388,
+                "disk_access": 216.53,
+                "avg_dist_calc": 7584.25,
+                "avg_obj_result": 4.032,
+                "radius": 115,
+                "num_consults": 500
+            },
+            "radius-230": {
+                "avg_time": 38.8488,
+                "disk_access": 230.17,
+                "avg_dist_calc": 8501.44,
+                "avg_obj_result": 31.672,
+                "radius": 230,
+                "num_consults": 500
+            },
+            "radius-345": {
+                "avg_time": 42.5708,
+                "disk_access": 243.296,
+                "avg_dist_calc": 9439.65,
+                "avg_obj_result": 124.716,
+                "radius": 345,
+                "num_consults": 500
+            },
+            "radius-460": {
+                "avg_time": 47.0374,
+                "disk_access": 255.848,
+                "avg_dist_calc": 10350.3,
+                "avg_obj_result": 301.246,
+                "radius": 460,
+                "num_consults": 500
+            },
+            "radius-575": {
+                "avg_time": 51.6638,
+                "disk_access": 268.642,
+                "avg_dist_calc": 11250.4,
+                "avg_obj_result": 578.854,
+                "radius": 575,
+                "num_consults": 500
+            },
+            "radius-690": {
+                "avg_time": 56.0304,
+                "disk_access": 280.558,
+                "avg_dist_calc": 12135.6,
+                "avg_obj_result": 960.33,
+                "radius": 690,
+                "num_consults": 500
+            },
+            "radius-805": {
+                "avg_time": 60.6272,
+                "disk_access": 292.482,
+                "avg_dist_calc": 12992.4,
+                "avg_obj_result": 1450.65,
+                "radius": 805,
+                "num_consults": 500
+            },
+            "radius-920": {
+                "avg_time": 65.2593,
+                "disk_access": 303.634,
+                "avg_dist_calc": 13824.2,
+                "avg_obj_result": 2039.61,
+                "radius": 920,
+                "num_consults": 500
+            },
+            "radius-923": {
+                "avg_time": 65.8598,
+                "disk_access": 303.89,
+                "avg_dist_calc": 13845.4,
+                "avg_obj_result": 2057.41,
+                "radius": 923,
+                "num_consults": 500
+            }
+        },
+        "data-7": {
+            "radius-0": {
+                "avg_time": 72.0318,
+                "disk_access": 257.938,
+                "avg_dist_calc": 10550.1,
+                "avg_obj_result": 1.03,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-25": {
+                "avg_time": 76.3041,
+                "disk_access": 262.628,
+                "avg_dist_calc": 10927.2,
+                "avg_obj_result": 90.5,
+                "radius": 25,
+                "num_consults": 500
+            },
+            "radius-50": {
+                "avg_time": 77.6853,
+                "disk_access": 267.776,
+                "avg_dist_calc": 11296,
+                "avg_obj_result": 208.202,
+                "radius": 50,
+                "num_consults": 500
+            },
+            "radius-75": {
+                "avg_time": 80.7209,
+                "disk_access": 272.862,
+                "avg_dist_calc": 11663.8,
+                "avg_obj_result": 370.582,
+                "radius": 75,
+                "num_consults": 500
+            },
+            "radius-100": {
+                "avg_time": 83.8937,
+                "disk_access": 277.472,
+                "avg_dist_calc": 12023.6,
+                "avg_obj_result": 572.334,
+                "radius": 100,
+                "num_consults": 500
+            },
+            "radius-125": {
+                "avg_time": 87.0782,
+                "disk_access": 282.156,
+                "avg_dist_calc": 12372.1,
+                "avg_obj_result": 791.622,
+                "radius": 125,
+                "num_consults": 500
+            },
+            "radius-150": {
+                "avg_time": 89.396,
+                "disk_access": 286.774,
+                "avg_dist_calc": 12720.1,
+                "avg_obj_result": 1025.86,
+                "radius": 150,
+                "num_consults": 500
+            },
+            "radius-175": {
+                "avg_time": 93.449,
+                "disk_access": 290.538,
+                "avg_dist_calc": 13089.9,
+                "avg_obj_result": 1710.79,
+                "radius": 175,
+                "num_consults": 500
+            },
+            "radius-200": {
+                "avg_time": 92.7127,
+                "disk_access": 294.778,
+                "avg_dist_calc": 13417.6,
+                "avg_obj_result": 2044.44,
+                "radius": 200,
+                "num_consults": 500
+            },
+            "radius-201": {
+                "avg_time": 92.5757,
+                "disk_access": 294.878,
+                "avg_dist_calc": 13430.9,
+                "avg_obj_result": 2055.24,
+                "radius": 201,
+                "num_consults": 500
+            }
+        }
+    },
+    "tree-6": {
+        "data-6": {
+            "radius-0": {
+                "avg_time": 2.48964,
+                "disk_access": 156.516,
+                "avg_dist_calc": 351.978,
+                "avg_obj_result": 1.006,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-115": {
+                "avg_time": 3.31356,
+                "disk_access": 171.136,
+                "avg_dist_calc": 1853.86,
+                "avg_obj_result": 4.032,
+                "radius": 115,
+                "num_consults": 500
+            },
+            "radius-230": {
+                "avg_time": 4.02155,
+                "disk_access": 185.864,
+                "avg_dist_calc": 3319.15,
+                "avg_obj_result": 31.672,
+                "radius": 230,
+                "num_consults": 500
+            },
+            "radius-345": {
+                "avg_time": 5.2582,
+                "disk_access": 200.218,
+                "avg_dist_calc": 4764.22,
+                "avg_obj_result": 124.716,
+                "radius": 345,
+                "num_consults": 500
+            },
+            "radius-460": {
+                "avg_time": 5.86161,
+                "disk_access": 214.27,
+                "avg_dist_calc": 6102.33,
+                "avg_obj_result": 301.246,
+                "radius": 460,
+                "num_consults": 500
+            },
+            "radius-575": {
+                "avg_time": 6.8802,
+                "disk_access": 228.022,
+                "avg_dist_calc": 7378.01,
+                "avg_obj_result": 578.854,
+                "radius": 575,
+                "num_consults": 500
+            },
+            "radius-690": {
+                "avg_time": 8.23274,
+                "disk_access": 241.814,
+                "avg_dist_calc": 8590.31,
+                "avg_obj_result": 960.33,
+                "radius": 690,
+                "num_consults": 500
+            },
+            "radius-805": {
+                "avg_time": 9.3102,
+                "disk_access": 254.64,
+                "avg_dist_calc": 9745.65,
+                "avg_obj_result": 1450.65,
+                "radius": 805,
+                "num_consults": 500
+            },
+            "radius-920": {
+                "avg_time": 11.3778,
+                "disk_access": 266.87,
+                "avg_dist_calc": 10836.3,
+                "avg_obj_result": 2039.61,
+                "radius": 920,
+                "num_consults": 500
+            },
+            "radius-923": {
+                "avg_time": 11.0268,
+                "disk_access": 267.168,
+                "avg_dist_calc": 10864.6,
+                "avg_obj_result": 2057.41,
+                "radius": 923,
+                "num_consults": 500
+            }
+        },
+        "data-7": {
+            "radius-0": {
+                "avg_time": 34.4198,
+                "disk_access": 219.3,
+                "avg_dist_calc": 7978.4,
+                "avg_obj_result": 1.03,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-25": {
+                "avg_time": 36.282,
+                "disk_access": 224.872,
+                "avg_dist_calc": 8389.66,
+                "avg_obj_result": 90.5,
+                "radius": 25,
+                "num_consults": 500
+            },
+            "radius-50": {
+                "avg_time": 38.9002,
+                "disk_access": 230.816,
+                "avg_dist_calc": 8790.02,
+                "avg_obj_result": 208.202,
+                "radius": 50,
+                "num_consults": 500
+            },
+            "radius-75": {
+                "avg_time": 40.8643,
+                "disk_access": 236.024,
+                "avg_dist_calc": 9190.93,
+                "avg_obj_result": 370.582,
+                "radius": 75,
+                "num_consults": 500
+            },
+            "radius-100": {
+                "avg_time": 43.3488,
+                "disk_access": 241.464,
+                "avg_dist_calc": 9589.97,
+                "avg_obj_result": 572.334,
+                "radius": 100,
+                "num_consults": 500
+            },
+            "radius-125": {
+                "avg_time": 45.6985,
+                "disk_access": 246.678,
+                "avg_dist_calc": 9973.6,
+                "avg_obj_result": 791.622,
+                "radius": 125,
+                "num_consults": 500
+            },
+            "radius-150": {
+                "avg_time": 47.8598,
+                "disk_access": 251.932,
+                "avg_dist_calc": 10359.4,
+                "avg_obj_result": 1025.86,
+                "radius": 150,
+                "num_consults": 500
+            },
+            "radius-175": {
+                "avg_time": 51.0034,
+                "disk_access": 256.858,
+                "avg_dist_calc": 10789.7,
+                "avg_obj_result": 1710.79,
+                "radius": 175,
+                "num_consults": 500
+            },
+            "radius-200": {
+                "avg_time": 53.0278,
+                "disk_access": 261.972,
+                "avg_dist_calc": 11153.8,
+                "avg_obj_result": 2044.44,
+                "radius": 200,
+                "num_consults": 500
+            },
+            "radius-201": {
+                "avg_time": 52.5715,
+                "disk_access": 262.192,
+                "avg_dist_calc": 11167.7,
+                "avg_obj_result": 2055.24,
+                "radius": 201,
+                "num_consults": 500
+            }
+        }
+    },
+    "tree-7": {
+        "data-7": {
+            "radius-0": {
+                "avg_time": 1.46173,
+                "disk_access": 83.392,
+                "avg_dist_calc": 362.344,
+                "avg_obj_result": 1.03,
+                "radius": 0,
+                "num_consults": 500
+            },
+            "radius-25": {
+                "avg_time": 2.01945,
+                "disk_access": 89.954,
+                "avg_dist_calc": 974.32,
+                "avg_obj_result": 90.5,
+                "radius": 25,
+                "num_consults": 500
+            },
+            "radius-50": {
+                "avg_time": 2.53727,
+                "disk_access": 97.554,
+                "avg_dist_calc": 1532,
+                "avg_obj_result": 208.202,
+                "radius": 50,
+                "num_consults": 500
+            },
+            "radius-75": {
+                "avg_time": 3.15001,
+                "disk_access": 105.218,
+                "avg_dist_calc": 2093.72,
+                "avg_obj_result": 370.582,
+                "radius": 75,
+                "num_consults": 500
+            },
+            "radius-100": {
+                "avg_time": 3.74443,
+                "disk_access": 112.91,
+                "avg_dist_calc": 2643.72,
+                "avg_obj_result": 572.334,
+                "radius": 100,
+                "num_consults": 500
+            },
+            "radius-125": {
+                "avg_time": 4.30457,
+                "disk_access": 121.506,
+                "avg_dist_calc": 3182.1,
+                "avg_obj_result": 791.622,
+                "radius": 125,
+                "num_consults": 500
+            },
+            "radius-150": {
+                "avg_time": 5.0626,
+                "disk_access": 130.026,
+                "avg_dist_calc": 3706.64,
+                "avg_obj_result": 1025.86,
+                "radius": 150,
+                "num_consults": 500
+            },
+            "radius-175": {
+                "avg_time": 6.53475,
+                "disk_access": 138.802,
+                "avg_dist_calc": 4350.3,
+                "avg_obj_result": 1710.79,
+                "radius": 175,
+                "num_consults": 500
+            },
+            "radius-200": {
+                "avg_time": 7.28981,
+                "disk_access": 146.868,
+                "avg_dist_calc": 4827.71,
+                "avg_obj_result": 2044.44,
+                "radius": 200,
+                "num_consults": 500
+            },
+            "radius-201": {
+                "avg_time": 7.3944,
+                "disk_access": 147.212,
+                "avg_dist_calc": 4845.45,
+                "avg_obj_result": 2055.24,
+                "radius": 201,
+                "num_consults": 500
+            }
+        }
+    }
+}
